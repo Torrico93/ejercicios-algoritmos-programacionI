@@ -5,7 +5,7 @@ import java.util.Scanner;
 //Leer una serie de números reales, terminando la serie con un cero. Imprimir los datos a medida que se los ingresa
 //junto con la suma parcial de los mismos.
 public class Ejercicio3 {
-    public static void main(String[] arg) {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         int numeroIngresado;
